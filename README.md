@@ -15,6 +15,6 @@ All PRs and suggestions are welcome.
 - [x] Twilio webhook
 - [x] Deepgram integration
 - [x] Real-time transcription
-- [] Monorepo Config 
-- [] Docker Config
-- [] Deployment Instructions
+- [ ] Monorepo Config 
+- [ ] Docker Config
+- [ ] Deployment Instructions
